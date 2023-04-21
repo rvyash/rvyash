@@ -36,7 +36,9 @@ Docker and Kubernetes; implementing CI/CD pipelines by adopting GitOps Principle
 
 ![experience component](https://readme-components.vercel.app/api?component=experience&company=frontrow&role=Product%20Manager%20intern&fill=000000)
 
-
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #### ☎ Contact
 <a href="https://www.linkedin.com/in/yashrv/">
