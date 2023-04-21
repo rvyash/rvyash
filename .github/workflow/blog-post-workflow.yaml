@@ -16,4 +16,4 @@ jobs:
       - name: Pull in YashRV hashnode blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://yashrv.hashnode.dev/rss.xml">
+          feed_list: "https://yashrv.hashnode.dev/rss.xml,https://yash-rv.medium.com/"
