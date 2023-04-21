@@ -11,7 +11,7 @@ Docker and Kubernetes; implementing CI/CD pipelines by adopting GitOps Principle
 
 #### 🔧 Technologies used in development 
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,go,nodejs,react,mongodb,jquery&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,go,nodejs,react,mongodb,jquery,python&theme=light)
 
 #### 🔧 Tools used for Deployment and Monitoring
 
