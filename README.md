@@ -2,7 +2,7 @@
 
 ● I'm a recent graduate with a Computer Science major. A versatile developer with hands-on experience in designing, developing, deploying, and implementing web-based applications & solutions using a range of technologies and programming languages.
 
-● Fullstack developer an interest in DevOps and Cloud Native technologies, experienced working on container-based technologies like Docker and Kubernetes, and implementing CI/CD pipelines by adopting GitOps principles. 🪜Often open to learning new technologies and sharing<b>!!!
+● Fullstack developer with an interest in DevOps and Cloud Native technologies, experienced working on container-based technologies like Docker and Kubernetes, and implementing CI/CD pipelines by adopting GitOps principles. 🪜Often open to learning new technologies and sharing<b>!!!
 
 
 ---
