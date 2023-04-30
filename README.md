@@ -9,7 +9,7 @@
 
 #### 🔧 Technologies I've worked with: 
 
-![skills](https://skillicons.dev/icons?i=html,css,js,react,go,mongodb,python,fastapi,git,github,linux&theme=light) ![skills](https://skillicons.dev/icons?i=bash,docker,kubernetes,ansible,jenkins,prometheus,grafana,aws,openstack&theme=light) &nbsp;<i>
+![skills](https://skillicons.dev/icons?i=html,css,js,react,go,mongodb,python,django,git,github,linux&theme=light) ![skills](https://skillicons.dev/icons?i=bash,docker,kubernetes,ansible,jenkins,prometheus,grafana,aws,openstack&theme=light) &nbsp;<i>
     <img width="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" />&nbsp; &nbsp;<img width="42" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" />
     &nbsp; 
 
