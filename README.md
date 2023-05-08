@@ -1,4 +1,4 @@
-<img style="width:20vw; border-radius:50%; margin-top: 20px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg1NDIxZjBmMDRjZmI1YTlhZjNjYTE4NGZiZTIzNzQzMDQ3MjY2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NytMLKyiaIh6VH9SPm/giphy.gif"/> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🙏+It's+Yash+rv...;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🙏+It's+Yash+rv...;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) <img style="width:20vw; border-radius:50%; margin-top: 20px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg1NDIxZjBmMDRjZmI1YTlhZjNjYTE4NGZiZTIzNzQzMDQ3MjY2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NytMLKyiaIh6VH9SPm/giphy.gif"/>  
 
 ● I'm a recent graduate with a Computer Science major. A versatile developer with hands-on experience in designing, developing, deploying, and implementing web-based applications & solutions using a range of technologies and programming languages.
 
@@ -30,9 +30,6 @@
 ![experience component](https://readme-components.vercel.app/api?component=experience&company=ucal&role=Research%20Assistant&fill=0033a0) ![experience component](https://readme-components.vercel.app/api?component=experience&company=dineout&role=Software%20Engineer%20Intern&fill=0033a0) ![experience component](https://readme-components.vercel.app/api?component=experience&company=iiserbhopal&role=Research%20Intern&fill=333333) ![experience component](https://readme-components.vercel.app/api?component=experience&company=frontrow&role=Product%20Intern&fill=333333)
 
 ---
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashV1729&theme=tokyonight)
 
 
 #### ☎ Contacts. 
