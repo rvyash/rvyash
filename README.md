@@ -25,11 +25,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 👨‍💻 Work Experience.
 
-![experience component](https://readme-components.vercel.app/api?component=experience&company=ucal&role=Research%20Assistant&fill=0033a0) ![experience component](https://readme-components.vercel.app/api?component=experience&company=dineout&role=Software%20Engineer%20Intern&fill=0033a0) ![experience component](https://readme-components.vercel.app/api?component=experience&company=iiserbhopal&role=Research%20Intern&fill=333333) ![experience component](https://readme-components.vercel.app/api?component=experience&company=frontrow&role=Product%20Intern&fill=333333)
-
----
    [![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashV1729&theme=xcode)](https://github.com/YashV1729/github-readme-activity-graph) 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashV1729&theme=tokyonight)
