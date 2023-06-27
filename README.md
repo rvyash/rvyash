@@ -2,14 +2,14 @@
 
 ● I'm a recent graduate with a Computer Science major. A versatile developer with hands-on experience in designing, developing, deploying, and implementing web-based applications & solutions using a range of technologies and programming languages.
 
-● Fullstack developer with an interest in DevOps and Cloud Native technologies, experienced working on container-based technologies like Docker and Kubernetes, and implementing CI/CD pipelines by adopting GitOps principles. 🪜Often open to learning new technologies and sharing<b>!!!
+● Fullstack developer with an interest in DevOps and Cloud Native technologies, experienced working on container-based technologies like Docker and Kubernetes, and implementing CI/CD pipelines by adopting GitOps principles. Open to learning new technologies and sharing<b>!!!
 
 
 ---
 
 #### 🔧 Technologies I've worked with: 
 
-![skills](https://skillicons.dev/icons?i=html,css,js,react,go,mongodb,python,django,git,github,linux&theme=light) ![skills](https://skillicons.dev/icons?i=bash,docker,kubernetes,ansible,jenkins,prometheus,grafana,aws,openstack&theme=light) &nbsp;<i>
+![skills](https://skillicons.dev/icons?i=js,react,go,mongodb,python,django,flask,git,github,gitlab,linux&theme=light) ![skills](https://skillicons.dev/icons?i=bash,docker,kubernetes,ansible,jenkins,prometheus,grafana,aws&theme=light) &nbsp;<i>
     <img width="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" />&nbsp; &nbsp;<img width="42" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" />
     &nbsp; 
 
