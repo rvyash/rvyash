@@ -25,9 +25,7 @@ Monitoring or Observability?](https://yashrv.hashnode.dev/why-and-how-to-monitor
 - [Deep dive &lpar;101&rpar;- JavaScript: Part 2](https://yash-rv.medium.com/deep-dive-101-javascript-part-2-1fdce2a86a56?source=rss-695b9ba208ed------2)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-   [![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashV1729&theme=xcode)](https://github.com/YashV1729/github-readme-activity-graph) 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashV1729&theme=tokyonight)
 ---
