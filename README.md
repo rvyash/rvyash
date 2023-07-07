@@ -20,9 +20,6 @@
 - [An approach to Monitoring and Observability 
 in a Cloud Native way...](https://yashrv.hashnode.dev/why-and-how-to-monitor-or-observe)
 - [Hands-on with Configuration Management with multiple AWS EC2 instances &quot;ft. Ansible&quot;...](https://yashrv.hashnode.dev/hands-on-with-configuration-management-with-multiple-aws-ec2-instances-ft-ansible)
-- [Fixing “Cannot connect to the Docker daemon at unix:///var/run/docker.sock.](https://yash-rv.medium.com/fixing-cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-7fcc1da54bee?source=rss-695b9ba208ed------2)
-- [Finding an efficient frontend library/framework compatible with the DH Visionary Cross project…](https://yash-rv.medium.com/finding-an-efficient-frontend-library-framework-compatible-with-the-dh-visionary-cross-project-8d1188fdcac2?source=rss-695b9ba208ed------2)
-- [Deep dive &lpar;101&rpar;- JavaScript: Part 2](https://yash-rv.medium.com/deep-dive-101-javascript-part-2-1fdce2a86a56?source=rss-695b9ba208ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 
