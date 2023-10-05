@@ -35,10 +35,6 @@ in a Cloud Native way...](https://yashrv.hashnode.dev/why-and-how-to-monitor-or-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashV1729&theme=tokyonight)
 ---
 #### ☎ Contacts. 
-<a href="https://www.linkedin.com/in/yashrv/">
-   <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>&ensp;
-
 
  <a href="https://yash-rv.medium.com/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
