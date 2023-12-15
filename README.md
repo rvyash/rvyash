@@ -18,10 +18,8 @@
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
 - [High and Low Cardinality in Data…](https://yash-rv.medium.com/high-and-low-cardinality-data-d43d745316eb?source=rss-695b9ba208ed------2)
-- [Navigating the Observability  landscape
-using OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
-- [An approach to Monitoring and Observability 
-in a Cloud Native way...](https://yashrv.hashnode.dev/why-and-how-to-monitor-or-observe)
+- [Navigating the Observability  landscapeusing OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
+- [An approach to Monitoring and Observability in a Cloud Native way...](https://yashrv.hashnode.dev/why-and-how-to-monitor-or-observe)
 - [Hands-on with Configuration Management with multiple AWS EC2 instances &quot;ft. Ansible&quot;...](https://yashrv.hashnode.dev/hands-on-with-configuration-management-with-multiple-aws-ec2-instances-ft-ansible)
 - [Finding an efficient frontend library/framework compatible with the DH Visionary Cross project…](https://yash-rv.medium.com/finding-an-efficient-frontend-library-framework-compatible-with-the-dh-visionary-cross-project-8d1188fdcac2?source=rss-695b9ba208ed------2)
 - [Deep dive &lpar;101&rpar;- JavaScript: Part 2](https://yash-rv.medium.com/deep-dive-101-javascript-part-2-1fdce2a86a56?source=rss-695b9ba208ed------2)
