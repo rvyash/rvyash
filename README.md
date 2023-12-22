@@ -17,6 +17,7 @@
 
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Observability from the ground up using eBPF...](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
 - [High and Low Cardinality in Data…](https://yash-rv.medium.com/high-and-low-cardinality-data-d43d745316eb?source=rss-695b9ba208ed------2)
 - [Navigating the Observability  landscapeusing OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
 - [An approach to Monitoring and Observability in a Cloud Native way...](https://yashrv.hashnode.dev/why-and-how-to-monitor-or-observe)
