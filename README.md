@@ -29,9 +29,6 @@
 - [Let’s CLOUD it…](https://yash-rv.medium.com/lets-cloud-it-90eff3920f3c?source=rss-695b9ba208ed------2)
 <!-- BLOG-POST-LIST:END -->
 
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashV1729&theme=tokyonight)
 ---
 #### ☎ Contacts. 
 
