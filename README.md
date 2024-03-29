@@ -17,6 +17,7 @@
 
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
+- [The State of Feature Flagging...](https://yashrv.hashnode.dev/the-state-of-feature-flagging)
 - [Revolutionizing Observability from the ground up using eBPF...](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
 - [High and Low Cardinality in Data…](https://yash-rv.medium.com/high-and-low-cardinality-data-d43d745316eb?source=rss-695b9ba208ed------2)
 - [Navigating the Observability  landscapeusing OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
@@ -26,7 +27,6 @@
 - [Deep dive &lpar;101&rpar;- JavaScript: Part 2](https://yash-rv.medium.com/deep-dive-101-javascript-part-2-1fdce2a86a56?source=rss-695b9ba208ed------2)
 - [Deep dive &lpar;101&rpar;- JavaScript: 1.0](https://yash-rv.medium.com/deep-dive-101-javascript-1-0-774242ef983e?source=rss-695b9ba208ed------2)
 - [Getting problem in starting a first node.js project with ES6?](https://yash-rv.medium.com/getting-problem-in-starting-a-first-node-js-project-with-es6-29483b336a00?source=rss-695b9ba208ed------2)
-- [Let’s CLOUD it…](https://yash-rv.medium.com/lets-cloud-it-90eff3920f3c?source=rss-695b9ba208ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
