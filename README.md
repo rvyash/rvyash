@@ -17,7 +17,7 @@
 
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Feature Flags...](https://yashrv.hashnode.dev/the-state-of-feature-flagging)
+- [Feature Flags – the silent architects shaping the dynamic software landscape](https://yashrv.hashnode.dev/the-state-of-feature-flagging)
 - [Revolutionizing Observability from the ground up using eBPF...](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
 - [High and Low Cardinality in Data…](https://yash-rv.medium.com/high-and-low-cardinality-data-d43d745316eb?source=rss-695b9ba208ed------2)
 - [Navigating the Observability  landscapeusing OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
