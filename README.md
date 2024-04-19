@@ -18,7 +18,7 @@
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
 - [Discovering Software Success with DORA Metrics.](https://yashdotrv.hashnode.dev/discovering-software-success-with-dora-metrics)
-- [Skiing into Modern Cloud Native Observability with eBPF.](https://yashrv.hashnode.dev/skiing-into-modern-cloud-native-observability-with-ebpf)
+- [Skiing into Cloud Native Observability with eBPF.](https://yashrv.hashnode.dev/skiing-into-modern-cloud-native-observability-with-ebpf)
 - [Feature Flags – the silent architects shaping the dynamic software landscape](https://yashrv.hashnode.dev/feature-flags-the-silent-architects-shaping-the-dynamic-software-landscape)
 - [Demystifying the buzz around eBPF](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
 - [Navigating the Observability  landscapeusing OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
