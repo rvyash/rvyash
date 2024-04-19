@@ -17,8 +17,9 @@
 
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
+- [Skiing into Modern Cloud Native Observability with eBPF.](https://yashrv.hashnode.dev/skiing-into-modern-cloud-native-observability-with-ebpf)
 - [Feature Flags – the silent architects shaping the dynamic software landscape](https://yashrv.hashnode.dev/feature-flags-the-silent-architects-shaping-the-dynamic-software-landscape)
-- [Revolutionizing Observability from the ground up using eBPF...](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
+- [Demystifying the buzz around eBPF](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
 - [High and Low Cardinality in Data…](https://yash-rv.medium.com/high-and-low-cardinality-data-d43d745316eb?source=rss-695b9ba208ed------2)
 - [Navigating the Observability  landscapeusing OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
 - [An approach to Monitoring and Observability in a Cloud Native way...](https://yashrv.hashnode.dev/why-and-how-to-monitor-or-observe)
@@ -26,7 +27,6 @@
 - [Finding an efficient frontend library/framework compatible with the DH Visionary Cross project…](https://yash-rv.medium.com/finding-an-efficient-frontend-library-framework-compatible-with-the-dh-visionary-cross-project-8d1188fdcac2?source=rss-695b9ba208ed------2)
 - [Deep dive &lpar;101&rpar;- JavaScript: Part 2](https://yash-rv.medium.com/deep-dive-101-javascript-part-2-1fdce2a86a56?source=rss-695b9ba208ed------2)
 - [Deep dive &lpar;101&rpar;- JavaScript: 1.0](https://yash-rv.medium.com/deep-dive-101-javascript-1-0-774242ef983e?source=rss-695b9ba208ed------2)
-- [Getting problem in starting a first node.js project with ES6?](https://yash-rv.medium.com/getting-problem-in-starting-a-first-node-js-project-with-es6-29483b336a00?source=rss-695b9ba208ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
