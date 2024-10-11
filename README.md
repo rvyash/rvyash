@@ -17,14 +17,7 @@
 
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
-- [A song of SLI, SLO and SLA.](https://yashrv.hashnode.dev/a-song-of-sli-slo-and-sla)
 - [Discovering Software Success with DORA Metrics.](https://yashdotrv.hashnode.dev/discovering-software-success-with-dora-metrics)
-- [Skiing into the Observability Landscape with eBPF.](https://yashrv.hashnode.dev/skiing-into-modern-cloud-native-observability-with-ebpf)
-- [Feature Flags – the silent architects shaping the dynamic software landscape](https://yashrv.hashnode.dev/feature-flags-the-silent-architects-shaping-the-dynamic-software-landscape)
-- [Demystifying the buzz around eBPF](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
-- [Navigating the Observability  landscapeusing OpenTelemetry](https://yashrv.hashnode.dev/navigating-the-observability-landscape-using-opentelemetry)
-- [An approach to Monitoring and Observability in a Cloud Native way...](https://yashrv.hashnode.dev/why-and-how-to-monitor-or-observe)
-- [Hands-on with Configuration Management with multiple AWS EC2 instances &quot;ft. Ansible&quot;...](https://yashrv.hashnode.dev/hands-on-with-configuration-management-with-multiple-aws-ec2-instances-ft-ansible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
