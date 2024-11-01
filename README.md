@@ -18,7 +18,6 @@
 ### 📝 Blog posts.
 <!-- BLOG-POST-LIST:START -->
 - [A song of SLI, SLO and SLA.](https://yashrv.hashnode.dev/a-song-of-sli-slo-and-sla)
-- [Discovering Software Success with DORA Metrics.](https://yashdotrv.hashnode.dev/discovering-software-success-with-dora-metrics)
 - [Skiing into the Observability Landscape with eBPF.](https://yashrv.hashnode.dev/skiing-into-modern-cloud-native-observability-with-ebpf)
 - [Feature Flags – the silent architects shaping the dynamic software landscape](https://yashrv.hashnode.dev/feature-flags-the-silent-architects-shaping-the-dynamic-software-landscape)
 - [Demystifying the buzz around eBPF](https://yashrv.hashnode.dev/revolutionizing-observability-from-the-ground-up-using-ebpf)
